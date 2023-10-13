@@ -1,1 +1,1 @@
-<div><img height=180 align="left" src="https://stats.rconjoe.com/api?username=rconjoe&show_icons=true&theme=rose_pine" /> <img height=180 align="right" src="https://stats.rconjoe.com/api/top-langs/?username=rconjoe&hide_progress=true&theme=rose_pine&langs_count=8&card_width=320" /></div>
+<div><img height=180 align="left" src="https://stats.rconjoe.com/api?username=rconjoe&show_icons=true&theme=rose_pine" /> <img height=180 align="right" src="https://stats.rconjoe.com/api/top-langs/?username=rconjoe&hide_progress=true&theme=rose_pine&langs_count=10&card_width=360" /></div>
