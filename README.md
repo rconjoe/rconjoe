@@ -1,1 +1,1 @@
-<div><img height=300 align="left" src="https://stats.rconjoe.com/api?username=rconjoe&show_icons=true&rank_icon=percentile&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" /> <img height=300 align="center" src="https://stats.rconjoe.com/api/top-langs/?username=rconjoe&theme=radical&langs_count=10&layout=donut" /></div>
+joe bullet!
