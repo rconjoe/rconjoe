@@ -1,1 +1,1 @@
-nice watch, wanna make it a web server?
+Developer and Systems Engineer - Los Angeles, CA
